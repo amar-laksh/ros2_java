@@ -60,6 +60,7 @@ repositories:
     url: https://github.com/ros2/rosidl_typesupport.git
     version: master
   ros2_java/ros2_java:
+    url: https://github.com/amar-laksh/ros2_java.git
     type: git
     url: https://github.com/esteve/ros2_java.git
     version: master
